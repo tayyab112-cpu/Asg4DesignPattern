@@ -1,0 +1,7 @@
+In this project I implemented the
+different design patteren in JAVA language.
+The design patterens that are implemented are Builder Design patteren,
+Prototype and Singleton design patteren. 
+Each design patteren has different example like in builder design patteren 
+I implemented the example of Burger, In singleton i implemented the example of music class. 
+In Prototype i implemented the example of animal class.
